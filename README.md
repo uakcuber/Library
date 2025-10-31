@@ -33,8 +33,3 @@ A comprehensive library management system built with C# and .NET.
 - Timing attack protection
 - Session-based authentication
 - Role-based authorization
-
-## Requirements
-
-- .NET 8.0
-- Konscious.Security.Cryptography.Argon2 package
