@@ -1,2 +1,50 @@
-1, arsenik iyidir, sorma
-2, Namık ekin, karışık kutu
+1, Farmakon, Hakan Günday
+2, İstanbul Hatırası, Ahmet Ümit
+3, Harry Potter ve Felsefe Taşı, J.K. Rowling
+4, Suç ve Ceza, Fyodor Dostoyevski
+5, Beyaz Diş, Jack London
+6, Simyacı, Paulo Coelho
+7, Satranç, Stefan Zweig
+8, Kürk Mantolu Madonna, Sabahattin Ali
+9, Tutunamayanlar, Oğuz Atay
+10, 1984, George Orwell
+11, Sefiller, Victor Hugo
+12, Anna Karenina, Lev Tolstoy
+13, Fareler ve İnsanlar, John Steinbeck
+14, Yüzüklerin Efendisi, J.R.R. Tolkien
+15, Şeker Portakalı, Jose Mauro de Vasconcelos
+16, Kırmızı Pazartesi, Gabriel García Márquez
+17, Hayvan Çiftliği, George Orwell
+18, Beyaz Zambaklar Ülkesinde, Grigory Petrov
+19, Martin Eden, Jack London
+20, Yeraltından Notlar, Fyodor Dostoyevski
+21, Melekler ve Şeytanlar, Dan Brown
+22, Cesur Yeni Dünya, Aldous Huxley
+23, Kumarbaz, Fyodor Dostoyevski
+24, Çalıkuşu, Reşat Nuri Güntekin
+25, Vadideki Zambak, Honoré de Balzac
+26, Küçük Prens, Antoine de Saint-Exupéry
+27, Uçurtma Avcısı, Khaled Hosseini
+28, Sineklerin Tanrısı, William Golding
+29, Yaşlı Adam ve Deniz, Ernest Hemingway
+30, Savaş ve Barış, Lev Tolstoy
+31, Bülbülü Öldürmek, Harper Lee
+32, İnce Memed, Yaşar Kemal
+33, Karamazov Kardeşler, Fyodor Dostoyevski
+34, Dokuz Işık Yılı, Barış Müstecaplıoğlu
+35, Kuyucaklı Yusuf, Sabahattin Ali
+36, Mai ve Siyah, Halit Ziya Uşaklıgil
+37, Oblomov, Ivan Goncharov
+38, İtiraflarım, Jean-Jacques Rousseau
+39, Dönüşüm, Franz Kafka
+40, Bir Ömür Nasıl Yaşanır, İlber Ortaylı
+41, Zamanın Kısalığı Üzerine, Seneca
+42, Olasılıksız, Adam Fawer
+43, Körlük, Jose Saramago
+44, Puslu Kıtalar Atlası, İhsan Oktay Anar
+45, Nutuk, Mustafa Kemal Atatürk
+46, Don Kişot, Miguel de Cervantes
+47, Otomatik Portakal, Anthony Burgess
+48, İnsan Neyle Yaşar, Lev Tolstoy
+49, Görünmez Adam, H.G. Wells
+50, Değişim, Mo Yan
